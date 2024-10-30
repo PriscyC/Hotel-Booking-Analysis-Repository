@@ -1,1 +1,2 @@
 # Hotel-Booking-Analysis-Repository
+EXPLORATORY ANALYSIS OF THE HOTEL BOOKING DATASEt
